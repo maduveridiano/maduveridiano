@@ -1,7 +1,8 @@
+
+![github-header-image (1)](https://github.com/maduveridiano/maduveridiano/assets/125310124/e9572abe-116a-4a17-924e-97c53ffb072d)
+
 # 💫 About Me:
 Olá, eu sou a duda!
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maduveridiano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maria-eduarda-alves-veridiano-a12bb9228/) 
