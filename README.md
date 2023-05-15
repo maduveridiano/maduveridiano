@@ -1,5 +1,5 @@
+![github-header-image (2)](https://github.com/maduveridiano/maduveridiano/assets/125310124/7e5ad5ce-e8d6-4ab6-9b2f-525c17553f0a)
 
-![github-header-image (1)](https://github.com/maduveridiano/maduveridiano/assets/125310124/e9572abe-116a-4a17-924e-97c53ffb072d)
 
 # 💫 About Me:
 Olá, eu sou a duda!
