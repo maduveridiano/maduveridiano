@@ -1,4 +1,5 @@
-![github-header-image (2)](https://github.com/maduveridiano/maduveridiano/assets/125310124/7e5ad5ce-e8d6-4ab6-9b2f-525c17553f0a)
+![github-header-image (3)](https://github.com/maduveridiano/maduveridiano/assets/125310124/26d98e86-294d-4455-93db-262ca57b71fa)
+
 
 
 # 💫 About Me:
