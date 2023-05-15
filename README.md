@@ -21,8 +21,8 @@ Hola, mi nombre es Duda!(Pero no tengo dudas, es solo mi apodo)Estoy ingresando 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=maduveridiano&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=maduveridiano&limit=5&theme=dracula&combine_all_yearly_contributions=true)
@@ -32,4 +32,5 @@ Hola, mi nombre es Duda!(Pero no tengo dudas, es solo mi apodo)Estoy ingresando 
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/maduveridiano) 
+
 
