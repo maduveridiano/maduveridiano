@@ -5,6 +5,8 @@
 # 💫 About Me:
 Hey, I'm Duda! I'm entering the programming area, currently I'm developing mainly in the BackEnd but I also hope to improve in all areas. <br>
 Oii, eu sou a Duda! Estou entrando na área da programação, atualmente estou desenvolvendo principalmente em BackEnd mas também espero me aprimorar em todas as áreas.
+<br>
+Hola, mi nombre es Duda!(Pero no tengo dudas, es solo mi apodo)Estoy ingresando al área de prograácion, actualmente estoy desarrollando principalmente en el BackEnd pero también espero mejorar en todas las áreas 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maduveridiano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maria-eduarda-alves-veridiano-a12bb9228/) 
