@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6096ba&size=35&center=true&vCenter=true&width=1000&lines=Hello!;Welcome+to+my+GitHub+profile;+My+Name+is+Duda+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffafcc&size=35&center=true&vCenter=true&width=1000&lines=Hello!;Welcome+to+my+GitHub+profile;+My+Name+is+Duda+:%29)](https://git.io/typing-svg)
 
 # 💫 About Me:
 Hey, I'm Duda! I'm entering the programming area, currently I'm developing mainly in the BackEnd but I also hope to improve in all areas. <br> <br>
