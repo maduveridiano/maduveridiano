@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffafcc&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffc8dd&size=35&center=true&vCenter=true&width=1000&lines=Hello!;Welcome+to+my+GitHub+profile;+My+Name+is+Duda+:%29)](https://git.io/typing-svg)
+<br>
 <br>
 # About Me:
 Hey, I'm Duda! I'm entering the programming area, currently I'm developing mainly in the BackEnd but I also hope to improve in all areas. <br> <br>
