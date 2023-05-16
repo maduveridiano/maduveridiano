@@ -17,7 +17,7 @@ Hola, mi nombre es Duda!(Pero no tengo dudas, es solo mi apodo)Estoy ingresando 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maduveridiano&theme=dark&hide_border=true&include_all_commits=false&count_private=false&card_width=450px)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maduveridiano&theme=dark&hide_border=true&card_width=350)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maduveridiano&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maduveridiano&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=100vw)
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=maduveridiano&theme=radical&no-frame=true&no-bg=false&margin-w=4)
