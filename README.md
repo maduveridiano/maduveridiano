@@ -20,10 +20,10 @@ Hola, mi nombre es Duda!(Pero no tengo dudas, es solo mi apodo)Estoy ingresando 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maduveridiano&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=800)
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=maduveridiano&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=maduveridiano&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 <br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=maduveridiano&limit=5&theme=dracula&combine_all_yearly_contributions=true)
