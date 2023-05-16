@@ -30,6 +30,6 @@ Hola, mi nombre es Duda!(Pero no tengo dudas, es solo mi apodo)Estoy ingresando 
 [![](https://visitcount.itsvg.in/api?id=maduveridiano&icon=2&color=5)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/maduveridiano) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffafcc?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/maduveridiano) 
 
 
