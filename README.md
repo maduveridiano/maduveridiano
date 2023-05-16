@@ -23,7 +23,7 @@ Hola, mi nombre es Duda!(Pero no tengo dudas, es solo mi apodo)Estoy ingresando 
 ![](https://github-profile-trophy.vercel.app/?username=maduveridiano&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 <br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&no-bg=true)
 
 ###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=maduveridiano&limit=5&theme=dracula&combine_all_yearly_contributions=true)
