@@ -32,5 +32,4 @@ Hola, mi nombre es Duda!(Pero no tengo dudas, es solo mi apodo)Estoy ingresando 
 [![](https://visitcount.itsvg.in/api?id=maduveridiano&icon=2&color=5)](https://visitcount.itsvg.in)
 
   ##  What am I hearing...
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=coxih428im9z3yu8qr12mzw9g&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
-
+[![https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=coxih428im9z3yu8qr12mzw9g&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=true)]]
