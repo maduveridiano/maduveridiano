@@ -24,7 +24,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/amaduveridiano&icon=2&color=5)](https://visitcount.itsvg.in)
-
-#  What am I listening to while code...
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=coxih428im9z3yu8qr12mzw9g&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
